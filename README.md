@@ -1,6 +1,7 @@
 # Spotify Ripoff 🎵
 
 Welcome to the Spotify Ripoff repo! This is my awesome practice project where I tried to recreate the beloved Spotify interface. Of course, this isn't meant for commercial use; just for fun and learning! 😎
+Chcekout here:   https://vinay-th.github.io/Spotify-Ripoff/
 
 ## What's Inside? 🤔
 
